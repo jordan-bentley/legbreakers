@@ -9,6 +9,3 @@ No part of this code should be used for commercial use as it was designed quickl
 index.php is the homepage for the website. If you would like to look at it, begin there. 
 
 Our database we used for this project is located in /Database/legbreakers_db.sql.
-
-
-https://csc-330-site-bentleyj.c9users.io/phpmyadmin - Tables Username: bentleyj
