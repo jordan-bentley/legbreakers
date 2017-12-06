@@ -1,0 +1,151 @@
+#myImage {
+	padding-left: 50px;
+	padding-right: 150px;
+	float: left;
+    width: auto;
+    height: 4%;
+    left: 0px;
+    right: 0px;
+    background-color: #000;
+}
+
+input[type=text] {
+    width: 130px;
+    height: 20px;
+}
+
+#navbar {
+	width: 100%;
+	background-color: #000;
+	padding-bottom: 30px;
+}
+
+#navbar ul { 
+	margin: 0;
+	padding-left: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000;
+} 
+ 
+#navbar ul li {  
+	float: left; 
+} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em;
+	padding-bottom: 6px;
+	color: #fff; 
+	background-color: #000;
+	font-size: x-large;
+} 
+ 
+#navbar ul li a:hover { 
+	color: #000; 
+	background-color: #838b83; 
+}
+
+body {
+	background-color: #212121;
+}
+
+#body_back {
+	float: left;
+	background-color: #FFF;
+	width: 75%;
+	border-left-style: outset;
+	border-left-color: #212121;
+	border-left-width: 20px;
+	font-family: garamond;
+	position: relative;
+}
+
+#body_back h2 {
+	padding-left: 20px;
+}
+
+#poster {
+	float: left;
+}
+
+#poster img {
+	width: 250px;
+	height: 400px;
+	padding-right: 50px;
+}
+
+#poster .center {
+	display: block;
+	margin: 0 auto;
+	position: relative;
+}
+
+#dir_img img {
+	width: 300px;
+	height: 400px;
+	padding-right: 0px;
+}
+
+#dir_image .center {
+	display: block;
+	margin: 0 auto;
+	position: relative;
+}
+
+#sidebar {
+	float: left;
+	border-left-style: outset;
+	border-left-color: #212121;
+	border-left-width: 20px;
+	background-color: #FFF;
+	width: 20%;
+	height: auto;
+}
+
+#body_container {
+	height: auto;
+	border-top-width: 40px;
+	border-top-style: outset;
+	border-top-color: #212121;
+}
+
+#searchbar {
+	float: left;
+	background-color: #000;
+	position: relative;
+	padding-left: 100px;
+}
+
+#sidebar h2 {
+	text-align: center;
+	font-family: garamond;
+}
+
+#rating_container {
+	text-align: left;
+	float: left;
+	border: 2px solid black;
+	position: relative;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#info {
+	clear: both;
+	padding-left: 20px;
+}
+
+#info h2 {
+	text-align: center;
+}
+
+#top_body {
+	padding-left: 35%;
+}
+
+#title {
+	padding-left: 10px;
+}
